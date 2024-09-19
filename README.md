@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaikulConkov](https://github.com/MaikulConkov)
 
-- 💬 Ask me about **React, Typescript, Javascript, Nest.js, C# **
+- 💬 Ask me about **React, Typescript, Javascript, Nest.js, C#, .Net **
 
 - 📫 How to reach me **mcjaiyo01@gmail.com**
 
