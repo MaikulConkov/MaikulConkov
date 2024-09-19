@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nest.js, Angular**
 https://github.com/MaikulConkov?tab=repositories
-- 👨‍💻 All of my projects are available at [[https://github.com/MaikulConkov](https://github.com/MaikulConkov)](https://github.com/MaikulConkov?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/MaikulConkov](https://github.com/MaikulConkov?tab=repositories)
 
 - 💬 Ask me about **React, Typescript, Javascript, Nest.js, C#, .Net **
 
