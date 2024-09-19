@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on **TypeRacer web application**
 
 - 🌱 I’m currently learning **Nest.js, Angular**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MaikulConkov](https://github.com/MaikulConkov)
+https://github.com/MaikulConkov?tab=repositories
+- 👨‍💻 All of my projects are available at [[https://github.com/MaikulConkov](https://github.com/MaikulConkov)](https://github.com/MaikulConkov?tab=repositories)
 
 - 💬 Ask me about **React, Typescript, Javascript, Nest.js, C#, .Net **
 
